@@ -19,19 +19,19 @@ public class EjercicioEntregar5 {
 			
 			intentos++;
 			
-			System.out.println("Introduce un número, por favor ");
+			System.out.println("Introduce un nÃºmero, por favor ");
 			
-		    numero=sc.nextInt();
+		        numero=sc.nextInt();
 		    
-		    if(valor<numero) {
+		        if(valor<numero) {
 			
-			    System.out.println("Es un número mas bajo");
+			    System.out.println("Es un nÃºmero mas bajo");
 	
 		    }
 		
-		    else if(valor>numero) {
+		        else if(valor>numero) {
 			
-			    System.out.println("Es un número mas alto");
+			    System.out.println("Es un nÃºmero mas alto");
 		    }
 		    
 		}
